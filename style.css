@@ -1,0 +1,32 @@
+.carousel-inner {
+    height: 500px;
+}
+
+form {
+    width: 500px;
+    border: solid 2px black;
+    border-radius: 20px;
+    box-shadow: 5px 10px #44A2F1;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 10px;
+    background-color: #ABD7FC;
+}
+
+
+a{
+    text-decoration: none!important;
+}
+.padre{
+    text-align:left 500px;
+    width: 500px;
+    padding: 30px;
+    text-align: center;
+}
+.hola{
+    background-color: red;
+    color: white;
+    width: 200px;
+    padding: 30px;
+}
+ 
